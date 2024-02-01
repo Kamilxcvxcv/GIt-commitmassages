@@ -18,4 +18,11 @@ The primary thing is to let other developers and you gain a better understanding
 - Provides a subject that specifies your code's action (e.g., "Add missing link and alt text to the company's logo")
 - COntains a body that provides a concise yet clear description of why the commit needed to be made (e.g "screen readers won't read the images to users with disabilities without this information")
 - Separates the subject from the body with a new/blank line. this best proctice I highly reccommend following. IT makes commit messages easier for other developers to read
-.
+
+
+When you should commit
+The correct way to view a commmit is like a snapshot of your code at the moment that it was made. That version of your code up to that point will be saved for you to revert back to or look back at.
+
+It is a good practice to commit everytime you've made a meaningful change in the code. This will create a timeline of your progress and show that your finished code didn't appear out of nowhere.
+
+For example there certainly will be time when you are working on your project and you FINALLY get something just right, and this would be a good time to commit, and when something breakes you'd be able to go back through your commit history and either revert your code back to the last commit you made when you first got that part working or go back and see what code looked like at that point in time.
