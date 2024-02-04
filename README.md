@@ -25,4 +25,15 @@ The correct way to view a commmit is like a snapshot of your code at the moment 
 
 It is a good practice to commit everytime you've made a meaningful change in the code. This will create a timeline of your progress and show that your finished code didn't appear out of nowhere.
 
-For example there certainly will be time when you are working on your project and you FINALLY get something just right, and this would be a good time to commit, and when something breakes you'd be able to go back through your commit history and either revert your code back to the last commit you made when you first got that part working or go back and see what code looked like at that point in time.
+For example there certainly will be time when you are working on your project and you FINALLY get something just right, and this would be a good time to commit, and when something breakes you'd be able to go back through your commit history and either revert your code back to the last commit you made when you first got that part working or go back and see what code looked like at that point in time
+
+The seven rules of great Git commit message:
+1. Separate subject from body with a blank line
+2. Limit the subject line to 50 characters
+3. Capitalize the subject line
+4. Do not end the subject line with a period
+5. Use the imperative mood in the subject line
+6. Wrap the bodyt at 72 characters
+7. Use the body to exlpain what and why vs. how
+
+https://cbea.ms/git-commit/#intro
